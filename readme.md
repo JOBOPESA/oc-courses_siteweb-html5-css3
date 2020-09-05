@@ -1,4 +1,4 @@
-📝 # Cours OPENCLASSROOMS - Apprendre à créer un site Web avec HTML5 et CSS3<br/>
+📝 Cours OPENCLASSROOMS - Apprendre à créer un site Web avec HTML5 et CSS3<br/>
 
 Apprentissage du développement Web par l'usage des langages de développement<br/> HTML5 (HyperText Markup Language) et CSS3 (Cascading Style Sheet).
 
