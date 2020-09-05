@@ -1,6 +1,6 @@
 📝 Cours OPENCLASSROOMS - Apprendre à créer un site Web avec HTML5 et CSS3<br/>
 
-🔨 Travaux Pratiques N° 1 - Structurez son C.V.
+🔨 Travaux Pratiques N° 1 - Structurer son C.V.
 
 Lien vers le T.P.:<br/> 
 [T.P. N°1 - Structurer son C.V.](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/6725196-entrainez-vous-en-structurant-votre-cv)
